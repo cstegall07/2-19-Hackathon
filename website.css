@@ -1,11 +1,17 @@
 body            
 {
-    margin:auto;
-    width:1024px;
-    padding:10px;
-    background-color:#ebebeb;
-    font-size:14px;
-    font-family:Verdana;
+   background-color:#a8532;
+}
+
+h1 {
+color:#006ecb;
+text-align: center;
+font-size:18px;
+}
+            
+p {
+font-family: verdana;
+font-size: 14px;
 }
 
 
